@@ -1,4 +1,4 @@
-# Data-Warehousing-in-the-Cloud
+# Data-Warehousing-and-Analytics-in-the-Cloud
 
 ## Relating Physical Activity to Problematic Internet Use
 
