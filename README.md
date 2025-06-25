@@ -3,6 +3,7 @@
 ## Relating Physical Activity to Problematic Internet Use
 
 #### Objectives
+This project aims to make a prediction on the level of problematic internet use exhibited by children by analysing their physical activity through fitness data. This aids in identifying early signs and indicators of problematic internet and technology use in children, allowing for prompt interventions in the earlier stages of recognising this problem that they might have and to eventually encourage and inculcate healthier digital habits in children. In the long-term, this better equips children in navigating the digital landscape responsibly.
 
 
 #### Tasks
