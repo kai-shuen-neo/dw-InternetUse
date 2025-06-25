@@ -7,13 +7,12 @@ This project aims to make a prediction on the level of problematic internet use 
 
 
 #### Tasks
-1. Predict the level of problematic internet use exhibited by children by analysing their physical activity via fitness data 
+1. Predict the level of problematic internet use by analysing fitness data 
 2. Run various classification models
 3. Predict class labels for internet use
 4. Compare accuracy, prediction, recall and F1 score across models
 
 #### Models
-Classification models
 - Decision Tree
 - Random Forest
 - KNN
